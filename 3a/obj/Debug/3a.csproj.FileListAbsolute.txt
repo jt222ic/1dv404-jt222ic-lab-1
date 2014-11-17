@@ -1,0 +1,6 @@
+C:\Users\jt222ic\Desktop\interactive-jt222ic\3a\bin\Debug\3a.exe.config
+C:\Users\jt222ic\Desktop\interactive-jt222ic\3a\obj\Debug\3a.csprojResolveAssemblyReference.cache
+C:\Users\jt222ic\Desktop\interactive-jt222ic\3a\bin\Debug\3a.exe
+C:\Users\jt222ic\Desktop\interactive-jt222ic\3a\bin\Debug\3a.pdb
+C:\Users\jt222ic\Desktop\interactive-jt222ic\3a\obj\Debug\3a.exe
+C:\Users\jt222ic\Desktop\interactive-jt222ic\3a\obj\Debug\3a.pdb
