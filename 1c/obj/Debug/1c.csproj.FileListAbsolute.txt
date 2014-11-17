@@ -1,0 +1,5 @@
+C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
