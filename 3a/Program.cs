@@ -8,29 +8,48 @@ namespace _3a
 {
     class Program
     {
+                                                             
         static void Main(string[] args)
         {
-            string myString;
-            string length;
-            myString = Console.ReadLine();    
-            length = int.Parse(myString.Length.ToString);
-                      
 
-            for (int i = 0; i < length.Length/ 2; i++)
+            int i = 0;
+            string str;
+            str = Console.ReadLine();
+            
+            string presentation;
+            presentation = str;
+            str.Replace(" ","");
+            
+
+            char[] arr = str.ToCharArray();
+            Array.Reverse(arr);
+
+
+
+
+
+            for (int p = 1; p < arr[i].length; p++)
             {
-                if (myString[i] == myString[i])
-                { Console.WriteLine(length); }
+
+                if (arr[0] == arr[i])
+                {
+
+                    foreach (char a in arr)
+                    {
+                        Console.Write(arr[i]);
+                        ++i;
+                    }
+                }
                 
+
+
             }
-
-            
-            
-
-
-            
-            
-
-          
-        }
+        
     }
+
 }
+
+}
+
+
+//referens   //http://www.softwareandfinance.com/CSharp/Palindrome.html //
