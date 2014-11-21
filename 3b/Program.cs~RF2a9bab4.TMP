@@ -1,0 +1,112 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _3b
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Fraction getFrac = new Fraction(3,4);
+
+
+            
+
+             
+        }
+    }
+
+
+    class Fraction
+    {
+        private int _Denominator;
+        private int _Numerator;
+        private int _Denominator2;
+        private int _Numerator2;
+
+
+
+        public int Denominator
+        {
+            get { return _Denominator; }
+            set
+            {
+                _Denominator = value;
+            }
+        }
+
+        public int Denominator2
+        {
+            get { return _Denominator2; }
+            set
+            { if ( _Denominator2 == 0)
+            {
+                throw new ArgumentOutOfRangeException("Måste ha et tal mer än 0");
+            }
+
+                _Denominator2 = value;
+            }
+
+        }
+
+        public int Numerator2
+        {
+            get { return _Numerator2; }
+            set {
+
+
+
+                _Numerator2 = value;
+            }
+
+        }
+
+        public int Numerator
+        {
+            get { return _Numerator;
+         
+            }
+
+            set
+            {
+                _Numerator = value;
+            }
+        }
+
+        public Fraction(int denominator, int numerator, int denominator2, int numerator2)
+        {
+            Denominator = denominator;
+            Numerator = numerator;
+            Denominator2 = denominator2;
+            Numerator2 = denominator2;
+
+
+        }
+
+        public void add
+        {
+            Numerator = (Numerator * Denominator2) + (Numerator2 * Denominator)
+ 
+    }
+       
+
+        public void multiply()
+        {  
+
+        Numerator = Numerator * Numerator2;
+         Denominator = Denominator * Denominator2;
+
+
+
+        }
+
+    }
+}
+
+
+
+
