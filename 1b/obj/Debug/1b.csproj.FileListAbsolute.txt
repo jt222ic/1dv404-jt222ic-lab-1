@@ -10,3 +10,6 @@ C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication1\obj\Debug\Conso
 C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\jt222ic\Desktop\interactive-jt222ic\ConsoleApplication1\obj\Debug\1b.csprojResolveAssemblyReference.cache
+C:\Users\jt222ic\Desktop\interactive-jt222ic\1b\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jt222ic\Desktop\interactive-jt222ic\1b\obj\Debug\ConsoleApplication1.exe
+C:\Users\jt222ic\Desktop\interactive-jt222ic\1b\obj\Debug\ConsoleApplication1.pdb
